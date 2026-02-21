@@ -1,0 +1,21 @@
+# Streamlit and web/UI
+streamlit>=1.28.0
+
+# Data handling
+pandas>=2.1.0
+
+# Database
+sqlalchemy>=2.0.22
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+
+# LangChain and Google Gemini
+langchain>=1.0.0
+langchain-google-genai>=4.2.1
+langchain-community>=0.1.0
+
+# Embeddings and vector stores
+faiss-cpu>=1.7.4
+transformers>=4.34.0
+torch>=2.1.0
+sentence-transformers>=2.2.2
